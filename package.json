@@ -1,10 +1,10 @@
 {
-  "name": "part1",
+  "name": "part3-phonebook-backend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite",
+    "start": "npm run build && npm run start-backend",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
