@@ -1,0 +1,9 @@
+// Send request
+PUT  http://localhost:3001/api/persons/67ce9be21bc214ddba2eea9d
+Content-Type: application/json
+
+  {
+        "name": "Iurii Riabeka",
+        "number": "0414966401",
+        "id": "67ce9be21bc214ddba2eea9d"
+         }
